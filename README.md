@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=4000&color=8A2BE2&center=true&vCenter=true&lines=annyeong,+im+Gwyne+✨;stan+enhypen+and+bts+💜" alt="Typing banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=annyeong,%20Im%20Gwyne&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="purple banner" /> />
 </div>
 
 <br>
