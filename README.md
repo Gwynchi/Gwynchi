@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=4000&color=8A2BE2&center=true&vCenter=true&lines=hola,+i'm+gwyne+✨;stan+enhypen+and+bts+💜" alt="Typing banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=4000&color=8A2BE2&center=true&vCenter=true&lines=annyeong,+im+Gwyne+✨;stan+enhypen+and+bts+💜" alt="Typing banner" />
 </div>
 
 <br>
