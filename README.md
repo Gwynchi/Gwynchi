@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=annyeong,%20Im%20Gwyne&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="purple banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=Annyeong,%20Im%20Gwyne&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="purple banner" />
 </div>
 
 <br>
