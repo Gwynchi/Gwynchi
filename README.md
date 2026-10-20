@@ -4,15 +4,15 @@
 
 <br>
 
-### 💜 The Concept (About Gwynchi) 🫰
+### 💜 About Gwynchi 🫰
 ---
 🔮 3rd-year bsit student & campus student assistant  
 🌌 blending logic and art: frontend dev, backend databases, and ui/ux  
 🎶 massive k-pop multistan (𝖊𝖓𝖍𝖞𝖕𝖊𝖓 𝖆𝖓𝖉 𝕭𝕿𝕾) | original poetry writer  
 
-### 💿 Latest Comebacks (Fav Repos) 🎤
+### 💿 Latest Comebacks (Repos) 🎤
 ---
-| track name | concept |
+| Project | concept |
 | ---- | ----------- |
 | `Space-Invaders-Galaxy-Under-Siege` | a retro synthwave-themed 2d shooter built with python and pygame 🛸 |
 | `Gwynes-Flashcard-application` | an interactive frontend study tool powered by react and vite 🧠 |
